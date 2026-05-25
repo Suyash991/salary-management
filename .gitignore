@@ -26,7 +26,6 @@ yarn-debug.log*
 Thumbs.db
 
 # Prisma
-backend/prisma/migrations/
 generated/
 
 # Testing
